@@ -3,7 +3,7 @@
 🚀 Aspiring Software Engineer · Founder of Tradeido · AI & Security Enthusiast
 🌍 Building scalable systems, AI tools, and real-world products from scratch
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rabas-dev&label=Profile%20Views&color=292929&style=flat" /> <a href="https://linkedin.com/in/your-linkedin-handle"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://tradeido.com"> <img src="https://img.shields.io/badge/Tradeido-Live%20Project-292929?style=flat&logo=googlechrome&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rabas-dev&label=Profile%20Views&color=292929&style=flat" /> <a href="https://linkedin.com/in/rabas-ahmed"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://tradeido.com"> <img src="https://img.shields.io/badge/Tradeido-Live%20Project-292929?style=flat&logo=googlechrome&logoColor=white"/> </a> </p>
 🧠 About Me
 
 I’m a software engineering graduate focused on building real-world, production-grade systems instead of toy projects.
@@ -65,4 +65,4 @@ Preparing for Software Engineer / Backend / Full-stack roles
 Strengthening system design + DSA (interview prep)
 Building AI-driven developer tools
 📬 Contact
-<p align="left"> <a href="https://linkedin.com/in/your-linkedin-handle"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://tradeido.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-292929?style=for-the-badge"/> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/rabas-ahmed"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rabasahmed2.0@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://tradeido.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-292929?style=for-the-badge"/> </a> </p>
