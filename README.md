@@ -1,6 +1,6 @@
 👋 Hi, I'm Rabas Ahmed
 
-🚀 Aspiring Software Engineer · Co-Founder of Tradeido · AI & Security Enthusiast
+🚀 Aspiring Software Engineer · Lead Developer of Tradeido · AI & Security Enthusiast
 🌍 Building scalable systems, AI tools, and real-world products from scratch
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rabas-dev&label=Profile%20Views&color=292929&style=flat" /> <a href="https://linkedin.com/in/rabas-ahmed"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://tradeido.com"> <img src="https://img.shields.io/badge/Tradeido-Live%20Project-292929?style=flat&logo=googlechrome&logoColor=white"/> </a> </p>
